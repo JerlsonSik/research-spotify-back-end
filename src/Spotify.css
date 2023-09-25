@@ -1,0 +1,18 @@
+.Spotify-Background {
+    background-color: #2E3138; 
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    font-size: calc(5px + 2vmin);
+    color: white;   
+}
+.Spotify-H2 {
+    padding-top: 404px;
+    color: white;    
+}
+.Spotify-Button {
+    margin-top: 404px;
+    color: black;    
+}
