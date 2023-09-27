@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "researchpo2",
+    "staging": "researchpo2"
+  },
+  "targets": {},
+  "etags": {}
+}
